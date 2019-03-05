@@ -1,0 +1,9 @@
+eg/debuggee.pl
+t/99podcov.t
+t/98podsyn.t
+t/01basic.t
+lib/Devel/vscode.pm
+MANIFEST
+README.md
+CHANGES
+Makefile.PL
